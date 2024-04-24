@@ -1,4 +1,4 @@
-# Voice ChatGPT Interface
+# ChatGPT Interface de voz
 
 ## Descrição
 Este projeto proporciona uma interface de voz para interagir com o ChatGPT da OpenAI. Usuários podem falar diretamente com o ChatGPT através de um microfone, e receber respostas em áudio. Este sistema pode ser particularmente útil para aplicações que requerem interação mãos-livres ou para pessoas com deficiências visuais.
